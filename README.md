@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+```javascript
+const raiesbo = {
+  languages: ["HTML", "CSS", "JS(ES6+)", "Python"],
+  tools:["React", "Express", "D3.js", "SASS"]
+}
+```
 <!--
 **raiesbo/raiesbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
